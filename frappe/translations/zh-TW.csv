@@ -2631,7 +2631,7 @@ Queue should be one of {0},隊列應該是{0}
  </代碼> </ PRE>"
 Start Date Field,開始日期字段
 Role Name,角色名稱
-Switch To Desk,切換到台
+Switch To ERP.GG,切換到台
 Script or Query reports,腳本或查詢報告
 Workflow Document State,工作流程文件狀態
 Email Account added multiple times,電子郵件帳戶多次添加

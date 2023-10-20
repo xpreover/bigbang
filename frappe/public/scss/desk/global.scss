@@ -9,11 +9,14 @@ body {
 	font-weight: var(--weight-regular);
 	letter-spacing: 0.02em;
 	background-color: var(--bg-color);
-
+	.container {
+			width: 100%;
+			max-width: 100%;
+	}
 	&.full-width {
 	@include media-breakpoint-up(md) {
 		.container {
-				width: 90%;
+				width: 100%;
 				max-width: 100%;
 			}
 		}

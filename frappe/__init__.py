@@ -5,7 +5,7 @@ Frappe - Low Code Open Source Framework in Python and JS
 
 Frappe, pronounced fra-pay, is a full stack, batteries-included, web
 framework written in Python and Javascript with MariaDB as the database.
-It is the framework which powers ERPNext. It is pretty generic and can
+It is the framework which powers ERPGG. It is pretty generic and can
 be used to build database driven apps.
 
 Read the documentation: https://frappeframework.com/docs

@@ -35,7 +35,7 @@
 </div>
 
 
-Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library. Built for [ERPNext](https://erpnext.com).
+Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library. Built for [ERPGG](https://erpnext.com).
 
 <div align="center" style="max-height: 40px;">
 	<a href="https://frappecloud.com/frappe/signup">

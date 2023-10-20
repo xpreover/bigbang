@@ -25,14 +25,12 @@
 				</div>
 			</form>
 			<ul class="navbar-nav">
-						<!-- <a class="navbar-brand navbar-home" href="/app/dashboard"> -->
 		<a class="nav-item d-none d-sm-block" href="/app/dashboard">
-			<!-- <svg class="icon icon-sm"><use class="" href="#icon-dashboard-list"></use></svg> -->
 			<svg class="icon icon-md"><use class="" style=" stroke: white; stroke-width: 1.3px;" href="#icon-image-view"></use></svg>
-			<!-- <span class="navbar-kpi">KPI</span> -->
 		</a>
-		<a class="nav-item d-none d-sm-block" href="/app/todo">
-			<svg class="icon icon-md" style=" stroke: white; stroke-width: 1.3px;"><use class="" href="#icon-duplicate"></use></svg>
+		<!-- <a class="nav-item d-none d-sm-block" href="/app/todo"> -->
+		<a class="nav-item d-none d-sm-block" href="#" onclick="new frappe.ui.ThemeSwitcher().show()">
+			<svg class="icon icon-md" ><use class="" style=" stroke: white; stroke-width: 1.3px;" href="#icon-today"></use></svg>
 		</a>
 				<li class="nav-item dropdown dropdown-notifications dropdown-mobile hidden">
 					<a

@@ -174,7 +174,7 @@ class WebsiteAnalytics:
 				"regionFill": 1,
 			},
 			"axisOptions": {"xIsSeries": 1},
-			"colors": ["#7cd6fd", "#5e64ff"],
+			"colors": ["#31C5DD", "#FCCE0F"],
 		}
 
 		return chart

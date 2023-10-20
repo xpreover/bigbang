@@ -31,6 +31,9 @@
 		@include get_textstyle("sm", "regular");
 		line-height: 1rem;
 	}
+	a {
+		color: var(--white);
+	}
 }
 
 .navbar-home {
